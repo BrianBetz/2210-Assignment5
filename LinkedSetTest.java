@@ -1,3 +1,5 @@
+//@author Brian Betz
+
 import org.junit.Assert;
 import static org.junit.Assert.*;
 import org.junit.Before;
