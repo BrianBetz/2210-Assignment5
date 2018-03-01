@@ -9,7 +9,7 @@ import java.util.NoSuchElementException;
  * take a LinkedSet as a parameter, this order is used to increase
  * efficiency.
  *
- * @author Dean Hendrix (dh@auburn.edu)
+ * @author Brian Betz (betzbri@auburn.edu
  * @version 2016-03-13
  *
  */
